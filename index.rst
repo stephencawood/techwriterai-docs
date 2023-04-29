@@ -3,6 +3,8 @@
 
    projects
    operations
+   
+   Actions
    actions/spell
    actions/wordcount
 
