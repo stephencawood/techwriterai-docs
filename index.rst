@@ -1,3 +1,11 @@
+.. toctree::
+   :maxdepth: 2
+
+   projects
+   operations
+   actions/spell
+   actions/wordcount
+
 Tech Writer AI
 --------------
 
