@@ -10,6 +10,7 @@ Welcome to the Tech Writer AI documentation.
    projects
    operations
    
+   actions/
    actions/spell
    actions/wordcount
 
