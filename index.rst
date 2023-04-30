@@ -9,8 +9,12 @@ Welcome to the Tech Writer AI documentation.
    getting-started
    projects
    operations
+
+.. toctree::
+   :caption: Actions
+   :maxdepth: 2
    
-   actions/
+   actions
    actions/spell
    actions/wordcount
 
