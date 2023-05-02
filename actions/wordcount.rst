@@ -1,2 +1,4 @@
+.. _wordcount:
+
 Word Count
 ----------

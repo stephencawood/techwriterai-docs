@@ -1,11 +1,12 @@
+.. _projects:
+
 Projects
 --------
 
 Projects organize your Operations and settings and are the first place to start in the Tech Writer AI (TWAI) application.
 
-:::note:
-Projects will eventually allow users to share their Operations with other users.
-:::
+.. note::
+    Projects will eventually allow users to share their Operations with other users.
 
 Creating a Project
 ==================
